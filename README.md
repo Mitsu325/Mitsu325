@@ -1,4 +1,7 @@
 ## Hi, nice to meet you <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" />
+
+<img align="right" width="40%" src="https://media.giphy.com/media/YxdQy6Vxbvb44/giphy.gif" />
+
 ### Welcome to my page!
 <p>
   I'm Patricia, Fullstack developer from 
@@ -8,9 +11,7 @@
   <b>Brazil</b>.
 </p>
 
-<br/><br/>
-
-<img align="right" width="40%" src="https://media.giphy.com/media/YxdQy6Vxbvb44/giphy.gif" />
+<br/>
 
 ### Talking about Personal Stuffs:
 
