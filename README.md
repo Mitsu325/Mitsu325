@@ -1,11 +1,14 @@
-## Olá pessoal 👋
-### Seja bem vindo(a) ao meu GitHub!
+## Hi, nice to meet you <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 
-Meu nome é Patrícia e sou uma FullStack Developer :sparkles:
+<img align="right" width="40%" src="https://media.giphy.com/media/xT8qBsOjMOcdeGJIU8/giphy.gif"/>
 
-<br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
-<br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-PatriciaMashiba-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patricia-mashiba/)](https://www.linkedin.com/in/patricia-mashiba/) 
-| 
-[![Gmail Badge](https://img.shields.io/badge/-dev.mitsuko@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.mitsuko@gmail.com)](mailto:dev.mitsuko@gmail.com)
+### Welcome to my page!
+<p>
+  I'm Patricia, Fullstack developer from 
+  <img src="https://www.flaticon.com/svg/static/icons/svg/197/197604.svg" width="16"/>
+  <b>Japan</b>, currently living in
+  <img src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" width="16"/>
+  <b>Brazil</b>.
+</p>
 
-![Mitsu325's github stats](https://github-readme-stats.vercel.app/api?username=Mitsu325&show_icons=true&theme=dracula)
+<br/><br/>
