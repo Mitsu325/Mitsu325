@@ -74,7 +74,7 @@
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/notion-1693557-1442598.png" alt="Notion"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="Trello"/></code>
 
-<br/><br/>
+<br/>
 
 ## My latest posts
 
@@ -83,7 +83,7 @@
 - 📌 [Minha experiência como Bolsista da Digital House by Santander Coders](https://www.linkedin.com/pulse/minha-experi%C3%AAncia-como-bolsista-da-digital-house-coders-mashiba/)<br />
 - 📌 [Meus aprendizados no Basecamp](https://www.linkedin.com/pulse/meus-aprendizados-basecamp-patr%C3%ADcia-mitsuko-mashiba/)
 
-<br/><br/>
+<br/>
 
 ## Coding Activity
 
