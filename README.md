@@ -96,7 +96,5 @@
 <br/>
 
 <p align="right">
-  <a href="https://badges.pufler.dev">
-      <img src="https://badges.pufler.dev/visits/Mitsu325/Mitsu325" alt="Visitors badge" />
-   </a>
+  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Mitsu325.Mitsu325)
 </p>
