@@ -96,5 +96,7 @@
 <br/>
 
 <p align="right">
-  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Mitsu325.Mitsu325)
+  <a href="#">
+      <img src="https://visitor-badge.glitch.me/badge?page_id=Mitsu325.Mitsu325" />
+   </a>
 </p>
