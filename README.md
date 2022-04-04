@@ -5,9 +5,9 @@
 ### Welcome to my page!
 <p>
   I'm Patricia, Fullstack developer from 
-  <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197604.svg" alt="Japan" />
+  <img width="16" src="https://cdn-icons-png.flaticon.com/512/168/168038.png" alt="The Japanese flag is made up of a red circle, against a white background." />
   <b>Japan</b>, currently living in
-  <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" />
+  <img width="16" src="https://cdn-icons-png.flaticon.com/512/3022/3022562.png" alt="The Brazilian flag is bright green with a yellow diamond in the center filled with a blue globe." />
   <b>Brazil</b>.
 </p>
 
@@ -28,11 +28,11 @@
 ### Where to find me:
 
 <a href="https://www.linkedin.com/in/patricia-mashiba/">
-  <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /></code>
+  <code><img alt="My linkedin" width="28" src="https://cdn-icons-png.flaticon.com/512/1383/1383262.png" /></code>
 </a>
 
 <a href="mailto:dev.mitsuko@gmail.com">
-  <code><img alt="My e-mail" width="32" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" /></code>
+  <code><img alt="My e-mail" width="32" src="https://cdn-icons-png.flaticon.com/512/324/324123.png" /></code>
 </a>
 
 <br/><br/>
